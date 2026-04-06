@@ -1,0 +1,8 @@
+{
+  "location": "dialects/helm",
+  "max_version": null,
+  "url": "https://github.com/ngalaiko/tree-sitter-go-template",
+  "semver": false,
+  "min_version": null,
+  "lang": "helm"
+}
